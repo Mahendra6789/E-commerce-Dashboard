@@ -16,9 +16,12 @@
 
 ## Screenshots
 **Before User Registration:**
-![App Screenshot](<img width="927" alt="image" src="https://user-images.githubusercontent.com/107022099/195287576-6acad61b-fa0b-4ee0-99a4-5552f47376d2.png">)
+
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/107022099/195287576-6acad61b-fa0b-4ee0-99a4-5552f47376d2.png">
+
 **After User Registration:**
-![App Screenshot](<img width="926" alt="image" src="https://user-images.githubusercontent.com/107022099/195287780-e7b831d8-a9b5-4cfd-923a-778c203c8ee7.png">)
+
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/107022099/195287780-e7b831d8-a9b5-4cfd-923a-778c203c8ee7.png">
 
 ## Demo
 
