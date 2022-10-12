@@ -2,6 +2,7 @@
 ## E-commerce DashBoard
 
 1)This application was having the features of user registration,user login.
+
 2)After login the user then the user can add product,update product,Profile of the user.
 
 ## Languages Used
